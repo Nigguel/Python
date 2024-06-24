@@ -1,0 +1,11 @@
+# .gitignore
+
+# Python
+*.pyc
+__pycache__/
+
+# Entorno virtual
+.venv/
+
+# Archivos de configuración sensible
+.venv
